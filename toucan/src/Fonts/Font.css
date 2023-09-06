@@ -1,0 +1,98 @@
+@font-face {
+    font-family: 'Raleway-Black';
+    src: url("./Raleway-Black.otf") format("woff");
+}
+
+@font-face {
+    font-family: 'Raleway-Black-Italic';
+    src: url("./Raleway-BlackItalic.otf") format("woff");
+}
+
+@font-face {
+    font-family: 'Raleway-Bold';
+    src: url("./Raleway-Bold.otf") format("woff");
+}
+
+@font-face {
+    font-family: 'Raleway-Bold-Italic';
+    src: url("./Raleway-BoldItalic.otf") format("woff");
+}
+
+@font-face {
+    font-family: 'Raleway-ExtraBold';
+    src: url("./Raleway-ExtraBold.otf") format("woff");
+}
+
+@font-face {
+    font-family: 'Raleway-ExtraBold-Italic';
+    src: url("./Raleway-ExtraBoldItalic.otf") format("woff");
+}
+
+@font-face {
+    font-family: 'Raleway-ExtraLight';
+    src: url("./Raleway-ExtraLight.otf") format("woff");
+}
+
+@font-face {
+    font-family: 'Raleway-ExtraLight-Italic';
+    src: url("./Raleway-ExtraLightItalic.otf") format("woff");
+}
+
+@font-face {
+    font-family: 'Raleway-Italic-Variable';
+    src: url("./Raleway-Italic-VariableFont_wght.otf") format("woff");
+}
+
+@font-face {
+    font-family: 'Raleway-Italic';
+    src: url("./Raleway-Italic.otf") format("woff");
+}
+
+@font-face {
+    font-family: 'Raleway-Light';
+    src: url("./Raleway-Light.otf") format("woff");
+}
+
+@font-face {
+    font-family: 'Raleway-LightItalic';
+    src: url("./Raleway-LightItalic.otf") format("woff");
+}
+
+@font-face {
+    font-family: 'Raleway-Medium';
+    src: url("./Raleway-Medium.otf") format("woff");
+}
+
+@font-face {
+    font-family: 'Raleway-MediumItalic';
+    src: url("./Raleway-MediumItalic.otf") format("woff");
+}
+
+@font-face {
+    font-family: 'Raleway-Regular';
+    src: url("./Raleway-Regular.otf") format("woff");
+}
+
+@font-face {
+    font-family: 'Raleway-SemiBold';
+    src: url("./Raleway-SemiBold.otf") format("woff");
+}
+
+@font-face {
+    font-family: 'Raleway-SemiBold-Italic';
+    src: url("./Raleway-SemiBoldItalic.otf") format("woff");
+}
+
+@font-face {
+    font-family: 'Raleway-Thin';
+    src: url("./Raleway-Thin.otf") format("woff");
+}
+
+@font-face {
+    font-family: 'Raleway-ThinItalic';
+    src: url("./Raleway-ThinItalic.otf") format("woff");
+}
+
+h1 {
+    font-family: 'Raleway-Bold';
+}

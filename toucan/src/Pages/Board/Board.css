@@ -1,0 +1,22 @@
+.create-form{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.input-group{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.input-group textarea,
+.input-group input{
+    margin-top: 5px;
+}
+
+.button-group{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
